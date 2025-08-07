@@ -1,7 +1,11 @@
+
+import React from 'react';
+import OnboardingPage from './pages/OnboardingPage';
+
 function App() {
   return (
     <div className="App">
-      <h1>Test App</h1>
+      <OnboardingPage />
     </div>
   );
 }
